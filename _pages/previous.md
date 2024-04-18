@@ -1,27 +1,17 @@
 ---
-layout: home
-title: Home
+layout: page
+title: Previous Editions
 home_title: <b>The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2024</b>
 subtitle:
+nav: true
 nav_title: Home
-permalink: /
-description: A workshop to bring together junior professors in the field of medical robotics.
+nav_order: 2
+permalink: /previous-editions
 ---
 
-# Workshop at a Glance
-
-The workshop has two main themes, namely, **surgical** and **rehabilitation robotics**. We aim to provide a venue
-where Assistant and junior Associate Professors from these two fields of medical robotics can interact, brainstorm,
-network, and establish new interdisciplinary collaborations. Furthermore, this workshop will bring together senior professors from to provide advice on research and career path in a roundtable discussion.
-
-This workshop will be an **in-person event** at [ISMR 2024](https://ismr.gatech.edu), taking place on <b>June 3</b> from **8:45am** to **5:00pm**. The session will cover invited talks and a panel discussion.
-
-<div class= "h4" style="font-weight: bold; color: #ff6c0c; text-align: center;">
-The list of speakers is being finalized. Check back soon!
-</div>
-
-{% comment %}
-# Speakers
+Second Edition, April 19, 2023
+----
+### Speakers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
@@ -67,13 +57,33 @@ The list of speakers is being finalized. Check back soon!
 
 </div>
 
-{% endcomment %}
-
-
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="S. Farokh Atashzar" affiliation="New York University" url="https://engineering.nyu.edu/faculty/s-farokh-atashzar" img="/assets/img/people/farokh.jpg" %}
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
   {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
+  {% include people_horizontal.html name="Robert J. Webster" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/robert-webster/" img="assets/img/people/bob.jpg" %}
   {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
 </div>
+
+| **Time (EST)**{: .h5} |  |
+| :-----:   | :----- |
+| 8:45 | **Welcome and Opening Remarks** |
+| 8:50 | **Lueder Kahrs**: Vision-based Control of Tissue Ablation and Cutting |
+| 9:10 | **Margaret Coad**: Soft Inflatable Medical Robots: Enabling New Capabilities for Patient Care |
+| 9:30 | **Tania Morimoto**: Surgical Robot Design: From Patient- to Surgeon-Side Devices |
+| 10:00 | Coffee Break |
+| 10:30 | **Nicholas P. Fey**: Accounting for the Intention, Form and Objective of Wearers of Assistive Devices during Ambulation through Peripheral Sensing and Predictive Modeling |
+| 10:50 | **Yash Chitalia**: Concentric tendon-driven robots: A paradigm for the future?|
+| 11:10 | **Sheila Russo**: Addressing challenges in MIS through Soft Robotics|
+| 11:30 | **Alan Kuntz**: Autonomously Manipulating Deformable Tissue and Novel Micro-Scale Continuum Robots|
+| 12:00 | Lunch Break |
+| 1:30 | **S. Farokh Atashzar**: From Muscles to Machines: Decoding Human Intent for Neurorobot Control |
+| 1:50 | **Farshid Alambeigi**: Robotic Surgineering, from Spinal Fixation to Volumetric Muscle Loss Bioprinting |
+| 2:10 | **Loris Fichera**: Beyond the Operating Room: Surgical Robots in Clinic |
+| 2:30 | **Jie Ying Wu**: Building Better Tools For Surgical Training And Guidance Through Machine Learning And Augmented Reality |
+| 3:00 | Coffee Break |
+| 3:30 | **Round Table** |
+| 5:00 | Closing Remarks & End of Workshop |
+{: .table}
+{: .table-striped}
