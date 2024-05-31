@@ -63,7 +63,7 @@ Second Edition, April 19, 2023
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
   {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
   {% include people_horizontal.html name="Robert J. Webster" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/robert-webster/" img="assets/img/people/bob.jpg" %}
-  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
+  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris_old.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
 </div>
 
 | **Time (EST)**{: .h5} |  |
