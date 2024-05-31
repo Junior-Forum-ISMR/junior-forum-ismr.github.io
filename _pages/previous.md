@@ -24,7 +24,7 @@ Second Edition, April 19, 2023
 
   {% include people_horizontal.html name="Nicholas P. Fey" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/fey" img="/assets/img/people/nicholas.png" %}
 
-  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
+  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris_old.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
 
   {% include people_horizontal.html name="Lueder A. Kahrs" affiliation="University of Toronto" url="https://bme.utoronto.ca/faculty-research/core-faculty/lueder-kahrs/" img="assets/img/people/lueder.jpg" %}
 
