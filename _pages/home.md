@@ -47,6 +47,7 @@ The list of speakers is being finalized. Check back soon!
 </div>
 
 {% comment %}
+{% endcomment %}
 # Roundtable Panelists
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.utm.utoronto.ca/math-cs-stats/people/jessica-burgner-kahrs" img="/assets/img/people/jessica.jpg" %}
@@ -67,7 +68,7 @@ The list of speakers is being finalized. Check back soon!
 
 </div>
 
-{% endcomment %}
+
 
 
 # Organizers
