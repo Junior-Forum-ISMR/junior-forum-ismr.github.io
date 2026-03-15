@@ -16,7 +16,7 @@ network, and establish new interdisciplinary collaborations. Furthermore, this w
 
 This workshop will be an **in-person event** at [ISMR 2026](https://ismr.gatech.edu), taking place on <b>April 22</b> from **9:00am** to **5:00pm**. The session will cover invited talks and a panel discussion.
 
-[** Rising Star Poster Competition Form**] (https://docs.google.com/forms/d/1ww8hO0PysGeWAcDjn4zIuo62_emagy2e-1LWL4HmPbg/edit)
+**[Rising Star Poster Competition Form](https://docs.google.com/forms/d/1ww8hO0PysGeWAcDjn4zIuo62_emagy2e-1LWL4HmPbg/edit)**
 
 {% comment %}
 <div class= "h4" style="font-weight: bold; color: #ff6c0c; text-align: center;">
