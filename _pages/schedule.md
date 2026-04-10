@@ -21,7 +21,7 @@ nav_order: 1
 | 2:00 | **Fei Liu**: TBD |
 | 2:30 | **Mark Draelos**: TBD |
 | 3:00 | Coffee Break |
-| 3:30 | **Round Table** |
+| 3:30 | **Round Table: Iulian Iordachita, Jaydev Desai, Caleb Rucker, Farshid Alambeigi** |
 | 4:45 | **Rising Star Award** |
 | 5:00 | Closing Remarks & End of Workshop |
 {: .table}
