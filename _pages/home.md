@@ -16,6 +16,8 @@ network, and establish new interdisciplinary collaborations. Furthermore, this w
 
 This workshop will be an **in-person event** at [ISMR 2026](https://ismr.gatech.edu), taking place on <b>April 22</b> from **9:00am** to **5:00pm**. The session will cover invited talks and a panel discussion.
 
+** One Rising Star in Medical Robotics** will receive a travel award of USD 500, and a Rising Star T-shirt from Stäubli Robotics.
+
 ### Rising Star Award Details
 **[Rising Star Poster Competition Form](https://docs.google.com/forms/d/e/1FAIpQLScLebZMUrvLb91XJIufQ7Sf95YlVHAzzgMhQrtNc1ycCYPcGQ/viewform)**
 
