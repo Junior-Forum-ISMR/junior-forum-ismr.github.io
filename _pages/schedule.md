@@ -13,7 +13,7 @@ nav_order: 1
 | 9:30 | **Margaret McGuinness**: Everting Toroidal Robots for Small-Intestine Endoscopy |
 | 10:00 | **Alan Kuntz**: TBD |
 | 10:30 | Coffee Break |
-| 11:00 | **Peizhu (Pam) Qian**: TBD |
+| 11:00 | **Peizhu (Pam) Qian**: Creating User-Centered, Interactive Robotic Tutors for Clinical Nursing Education |
 | 11:30 | **Giovanni Pittiglio**: TBD |
 | 12:00 | **Rising Star Poster Session** |
 | 12:30 | Lunch Break |
