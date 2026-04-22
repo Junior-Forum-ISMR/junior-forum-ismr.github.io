@@ -43,7 +43,7 @@ The list of speakers is being finalized. Check back soon!
 
   {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="WPI" img="assets/img/people/giovanni.png" url="https://giovannipittiglio.github.io" %}
 
-  {% include people_horizontal.html name="Alan Kuntz" affiliation="Vanderbilt" url="https://Kuntz-lab.github.io/" img="/assets/img/people/alan.jpg" %}
+  {% include people_horizontal.html name="Alan Kuntz" affiliation="Vanderbilt University" url="https://Kuntz-lab.github.io/" img="/assets/img/people/alan.jpg" %}
 
   {% include people_horizontal.html name="Mark Draelos" affiliation="University of Michigan" url="https://bme.umich.edu/people/draelos-mark/" img="/assets/img/people/mark.jpg" %}
 
