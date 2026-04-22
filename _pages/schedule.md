@@ -11,7 +11,7 @@ nav_order: 1
 | 8:45 | **Welcome and Opening Remarks** |
 | 9:00 | **Joanna Bertram**: TBD |
 | 9:30 | **Margaret McGuinness**: Everting Toroidal Robots for Small-Intestine Endoscopy |
-| 10:00 | **Alan Kuntz**: TBD |
+| 10:00 | **Alan Kuntz**: Toward Principled Surgical and Interventional Autonomy |
 | 10:30 | Coffee Break |
 | 11:00 | **Peizhu (Pam) Qian**: Creating User-Centered, Interactive Robotic Tutors for Clinical Nursing Education |
 | 11:30 | **Giovanni Pittiglio**: Contact-Aware Control of Continuum Robots for Autonomous Navigation in Stroke Therapy |
